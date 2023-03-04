@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="email">email</string>
+    <string name="confirmpassword">ConfirmPassword</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="username">username</string>
+    <string name="registration">Registration</string>
+    <string name="_24_7_health_care">24/7 Health Care</string>
+    <string name="login">Login</string>
+    <string name="register_for_new_user">Register for New User?</string>
+</resources>
